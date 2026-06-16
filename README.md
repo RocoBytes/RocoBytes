@@ -20,18 +20,10 @@ I build **websites, apps, automations, and AI-powered solutions** that help busi
 I like mixing **tech, strategy, creativity, and execution** to make things work better.
 And then I keep improving them, **again and again**, until they truly deliver results.
 
-## ⚔️ What I do
-
-I build websites, apps, automations, and AI-powered solutions that help ideas become real products.
-I enjoy working across the full process: strategy, UX/UI, frontend, backend, integrations, cloud, marketing, analytics, and continuous improvement.
-
 When I'm not coding, I'm probably practicing Kenjutsu, exploring an MMORPG like World of Warcraft or Final Fantasy XIV, or talking about why Shadowbringers is my favorite expansion and Dragoon is my favorite class.
 I also love mechanical keyboards — I currently use a Corne Wireless and type around 80–90 WPM.
 
-My favorite single-player game of all time is The Legend of Zelda: Ocarina of Time.
-
-
-### What I do
+## ⚔️ What I do
 
 - **Fullstack web development** with **TypeScript / Node.js / NestJS** and scalable **Cloud architecture**
 - **Applied AI and automations (MCP)** to reduce manual work and human error
