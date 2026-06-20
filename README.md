@@ -28,7 +28,7 @@ When I'm not coding, I'm probably practicing Kenjutsu, playing an MMORPG like Fi
 - **Applied AI and automations (MCP)** to reduce manual work and human error
 - **Cybersecurity law and data protection consulting**: diagnostics, gap analysis, action plans, and best practices
 
-### Who I help
+## 👨‍💻 Who I help
 
 I help business leaders and teams — from small companies to large organizations — who need a reliable partner to **digitize processes, improve their online presence, and move forward with confidence and security**.
 
