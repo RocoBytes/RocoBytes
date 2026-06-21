@@ -20,7 +20,7 @@ I build **websites, apps, automations, and AI-powered solutions** that help busi
 I like mixing **tech, strategy, creativity, and execution** to make things work better.
 And then I keep improving them, **again and again**, until they truly deliver results.
 
-When I'm not coding, I'm probably practicing Kenjutsu, playing an MMORPG like Final Fantasy XIV (Shadowbringers is the best expansion).
+When I'm not coding, I'm probably practicing Kenjutsu or playing an MMORPG like Final Fantasy XIV (Shadowbringers is the best expansion).
 
 ## ⚔️ What I do
 
