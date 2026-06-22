@@ -60,7 +60,7 @@ I help business leaders and teams — from small companies to large organization
 
 ## 🚀 Focus areas
 
-- Building modern digital products
+- Building modern digital products.
 - Automating business processes
 - Applying AI to real business workflows
 - Improving visibility, acquisition, and conversion
