@@ -68,7 +68,7 @@ I help business leaders and teams — from small companies to large organization
 
 ---
 
-## 🤝 Let’s connect!!!!
+## 🤝 Let’s connect!!!
 
 - 🌐 Website: `https://futura.cl`
 - 💼 LinkedIn: `https://www.linkedin.com/in/rodrigo-contreras-rubio/`
